@@ -84,5 +84,13 @@ PC、ごみ箱、コントロールパネルなどの標準システムアイコ
 ## ⚙️ 動作環境
 - 対応OS： Windows 10 / Windows 11
 - 実行形式： 単体EXE版（DesktopIconManager_v1.0.0.exe）、ZIP版（展開後のフォルダ内で icon_manager.exe を実行）
+
+- ## 👨‍💻 開発・公開
+
+**株道経済研究所**
+
+- GitHub：[DesktopIconManager](https://github.com/goburin-xx/DesktopIconManager)
+- 不具合報告・ご要望：[GitHub Issues](https://github.com/goburin-xx/DesktopIconManager/issues)
+
 ## 📄 ライセンス
 本プロジェクトは MIT License のもとで公開されています。
